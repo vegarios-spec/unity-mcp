@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+salidas/
+capturas/
+jobs/
+dev/
+piezas/
+respaldo_claude_desktop_config_*.json
+mcp_atajo.json
+*.log
+*.lnk

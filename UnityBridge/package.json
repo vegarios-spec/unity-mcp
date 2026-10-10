@@ -1,0 +1,11 @@
+{
+  "name": "com.elias.unity-mcp-bridge",
+  "version": "1.0.0",
+  "displayName": "Unity MCP Bridge (Elias)",
+  "description": "Puente HTTP local (127.0.0.1:8765) para que el servidor MCP de Claude controle el Editor de Unity.",
+  "unity": "6000.0",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.2.1",
+    "com.unity.inputsystem": "1.11.2"
+  }
+}
